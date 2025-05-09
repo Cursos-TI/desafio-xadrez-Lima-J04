@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
     // ==========================
     // Simulação do movimento da TORRE
